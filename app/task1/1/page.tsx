@@ -1,7 +1,7 @@
-import ClarityCard from "@/component/ClarityCard";
-import GetMentored from "@/component/GetMentored";
-import JobCard from "@/component/JobCard";
-import LearnCard from "@/component/LearnCard";
+import ClarityCard from "@/component/task1/ClarityCard";
+import GetMentored from "@/component/task1/GetMentored";
+import JobCard from "@/component/task1/JobCard";
+import LearnCard from "@/component/task1/LearnCard";
 import { NextPage } from "next";
 
 const Page: NextPage = () => {

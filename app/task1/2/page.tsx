@@ -1,4 +1,4 @@
-import Stats from "@/component/task2/Stats";
+import Stats from "@/component/task1/Stats";
 import { NextPage } from "next";
 
 const Page: NextPage = () => {
