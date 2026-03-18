@@ -20,7 +20,7 @@ const Page = async ({ params }: { params: Promise<{ id: number }> }) => {
       {data.map((post, index) => (
         <div
           key={index}
-          className="flex flex-col gap-4 w-110 p-8 rounded-md bg-slate-700"
+          className="flex flex-col gap-4 w-110 p-8 text-white rounded-md bg-slate-700"
         >
           <p>{post.id}</p>
           <h1 className="text-[24px] font-bold">{post.title}</h1>

@@ -4,7 +4,7 @@ import { useRouter } from "next/navigation";
 export default function Home() {
   const route = useRouter();
   return (
-    <div className="flex flex-col gap-5.5 min-h-screen items-center pt-13.25 font-sans bg-slate-800 pb-20">
+    <div className="flex flex-col gap-5.5 min-h-screen items-center pt-13.25 font-sans text-white bg-slate-800 pb-20">
       <h1 className="text-[30px] font-bold"> Task 1</h1>
       <button
         className="bg-primary px-4 py-3 rounded-lg cursor-pointer"
