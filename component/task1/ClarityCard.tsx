@@ -53,7 +53,7 @@ const ClarityCard = () => {
           src="/image/image1.png"
           alt="image"
         />
-        <p className="absolute font-nohemi text-[20px] w-60.25 leading-[120%] right-6.25 top-14">
+        <p className="absolute font-nohemi text-white text-[20px] w-60.25 leading-[120%] right-6.25 top-14">
           Clarity unlocked—stickers, sips, and skills all in one go!
         </p>
         {/* button */}

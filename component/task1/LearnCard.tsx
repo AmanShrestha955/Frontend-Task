@@ -65,7 +65,7 @@ const LearnCard = () => {
               src="/image/image3.png"
               alt="image"
             />
-            <p className="absolute font-nohemi text-[20px] w-88.25 text-center leading-[120%] left-29.75 top-10.25">
+            <p className="absolute font-nohemi text-white text-[20px] w-88.25 text-center leading-[120%] left-29.75 top-10.25">
               Laptops, lessons, and a whole lot of growth!
             </p>
           </>
@@ -78,7 +78,7 @@ const LearnCard = () => {
               src="/image/image2.png"
               alt="image"
             />
-            <p className="absolute font-nohemi text-[20px] w-60.25 leading-[120%] left-20 top-9">
+            <p className="absolute font-nohemi text-white text-[20px] w-60.25 leading-[120%] left-20 top-9">
               Focused faces—learning mode: ON!
             </p>
           </>
